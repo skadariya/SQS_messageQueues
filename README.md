@@ -16,6 +16,13 @@
 > https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/prerequisites.html
 
 ## Trouble Shoot Step
+> Add: compile 'com.amazonaws:aws-java-sdk-sqs:1.11.587' to the build.gradle
+
+> Import following on your classes:
+ * import com.amazonaws.services.sqs.AmazonSQS;
+ * import com.amazonaws.services.sqs.AmazonSQSClientBuilder;
+ * import com.amazonaws.services.sqs.model.AmazonSQSException;
+ * import com.amazonaws.services.sqs.model.CreateQueueRequest;
 
 > Coming Soon
 
