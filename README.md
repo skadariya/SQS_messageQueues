@@ -24,10 +24,10 @@
 > Create a Sender and Receiver class to send/recived messages to Queue.
 
 > Upon running the sender class SQS console should be updated with the numbers of messsages been sent
-![Message Sent](./assets/messageSent.png)
+![Message Sent](./assets/messageReceive.png)
 
 > Upon running the receiver locale console should be display all the messages
-![Message Sent](./assets/messageReceive.png)
+![Message Sent](./assets/messageSent.png)
 
 
 ## References 
